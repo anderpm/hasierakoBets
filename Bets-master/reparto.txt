@@ -1,0 +1,6 @@
+Pronostikoa egin(Iñigo)
+Apustu egin(Ander)
+Dirua sartu(Ander)
+Emaitza ipini(Iñigo)
+Mugimenduak ikusi(Jonan)
+Gertaera ezabatu(Jonan)

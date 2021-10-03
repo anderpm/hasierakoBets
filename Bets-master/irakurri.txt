@@ -1,0 +1,34 @@
+-       Taldeko kideak (Scrum master-a zein den adieraziz)
+	Izandako scrum master Iñigo Gastesi, hurrengo iterazioaren scrum masterra Ander Pollacino.
+	
+	Kideak:
+	  Iñigo Gastesi
+	  Jon Ander Blanco
+	  Ander Pollacino
+
+-       Inplementatutako Erabilpen Kasuak lehendabizko eta bigarren iterazioan.
+	LogIn
+	LogOut
+	Erregistratu
+	Galdera Sortu
+	Galderak Kontsultatu
+	Gertaera Sortu
+	Pronostikoa egin
+	Apustu egin
+	Dirua sartu
+	Emaitza ipini
+	Mugimenduak ikusi
+	Gertaera ezabatu
+	Dirua Atera
+
+-       Negozio Logika Web Zerbitzuak erabiliz inplementatu duzue? (BAI/EZ/PARTZIALKI).
+	EZ
+-       Internalizazioa inplementatu duzue? (BAI/EZ/PARTZIALKI)
+	BAI
+-       Izandako arazo nagusienak (web zerbitzuak, datubasea…)
+	Web Zerbitzuak, ez eginda.
+-       Erabilitatako orduak (klasean + klasetik kanpo).
+	4,5(Klasean) + 8(etxean)=12,5h
+
+Bideoa:
+https://youtu.be/uAXTY5Rj7_s
